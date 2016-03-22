@@ -1,8 +1,7 @@
-base fwurgspatial
+base   fwurgspatial
 author Brend Wanders
-email b.wanders@xs4all.nl
-date 2016-03-22
-name FWURG Spatial types
-desc Adds FWURG related spatial data types for Strata
-url http://example.com
-
+email  b.wanders@xs4all.nl
+date   2016-03-22
+name   FWURG Spatial types
+desc   Adds FWURG related spatial data types for Strata
+url    http://example.co://github.com/bwanders/fwurg-fwurgspatial 
